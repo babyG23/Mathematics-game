@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.idea/
+
+# C++
+bin/
+obj/
+*.o
+*.exe
+*.out
+*.app
+*.class
+*.dll
+.DS_Store
